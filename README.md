@@ -4,9 +4,9 @@
 
 ##### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="30px" height="30px" src="https://pics.freeicons.io/uploads/icons/png/15487880341601550446-512.png" />][website]
+[<img align="left" alt="website" width="30px" height="30px" src="https://pics.freeicons.io/uploads/icons/png/15487880341601550446-512.png" />][website]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" height="30px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="30px" height="30px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
 
 <br />
 
